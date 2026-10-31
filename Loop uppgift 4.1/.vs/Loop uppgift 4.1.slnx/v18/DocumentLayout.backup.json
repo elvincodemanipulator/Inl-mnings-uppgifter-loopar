@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\elbo09002\\Documents\\GitHub\\Inl\u00E4mnings uppgifter loopar\\Loop uppgift 4.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80F664F2-BBA4-4955-82A2-610ADAF5A725}|Loop uppgift 4.1\\Loop uppgift 4.1.csproj|c:\\users\\elbo09002\\documents\\github\\inl\u00E4mnings uppgifter loopar\\loop uppgift 4.1\\loop uppgift 4.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80F664F2-BBA4-4955-82A2-610ADAF5A725}|Loop uppgift 4.1\\Loop uppgift 4.1.csproj|solutionrelative:loop uppgift 4.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\elbo09002\\Documents\\GitHub\\Inl\u00E4mnings uppgifter loopar\\Loop uppgift 4.1\\Loop uppgift 4.1\\Program.cs",
+              "RelativeDocumentMoniker": "Loop uppgift 4.1\\Program.cs",
+              "ToolTip": "C:\\Users\\elbo09002\\Documents\\GitHub\\Inl\u00E4mnings uppgifter loopar\\Loop uppgift 4.1\\Loop uppgift 4.1\\Program.cs*",
+              "RelativeToolTip": "Loop uppgift 4.1\\Program.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T10:40:41.942Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

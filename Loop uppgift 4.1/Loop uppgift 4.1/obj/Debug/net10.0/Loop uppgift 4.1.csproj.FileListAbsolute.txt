@@ -1,0 +1,15 @@
+C:\Users\elbo09002\Documents\GitHub\Inlämnings uppgifter loopar\Loop uppgift 4.1\Loop uppgift 4.1\obj\Debug\net10.0\Loop uppgift 4.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elbo09002\Documents\GitHub\Inlämnings uppgifter loopar\Loop uppgift 4.1\Loop uppgift 4.1\obj\Debug\net10.0\Loop uppgift 4.1.AssemblyInfoInputs.cache
+C:\Users\elbo09002\Documents\GitHub\Inlämnings uppgifter loopar\Loop uppgift 4.1\Loop uppgift 4.1\obj\Debug\net10.0\Loop uppgift 4.1.AssemblyInfo.cs
+C:\Users\elbo09002\Documents\GitHub\Inlämnings uppgifter loopar\Loop uppgift 4.1\Loop uppgift 4.1\obj\Debug\net10.0\Loop uppgift 4.1.csproj.CoreCompileInputs.cache
+C:\Users\elbo09002\Documents\GitHub\Inlämnings uppgifter loopar\Loop uppgift 4.1\Loop uppgift 4.1\bin\Debug\net10.0\Loop uppgift 4.1.exe
+C:\Users\elbo09002\Documents\GitHub\Inlämnings uppgifter loopar\Loop uppgift 4.1\Loop uppgift 4.1\bin\Debug\net10.0\Loop uppgift 4.1.deps.json
+C:\Users\elbo09002\Documents\GitHub\Inlämnings uppgifter loopar\Loop uppgift 4.1\Loop uppgift 4.1\bin\Debug\net10.0\Loop uppgift 4.1.runtimeconfig.json
+C:\Users\elbo09002\Documents\GitHub\Inlämnings uppgifter loopar\Loop uppgift 4.1\Loop uppgift 4.1\bin\Debug\net10.0\Loop uppgift 4.1.dll
+C:\Users\elbo09002\Documents\GitHub\Inlämnings uppgifter loopar\Loop uppgift 4.1\Loop uppgift 4.1\bin\Debug\net10.0\Loop uppgift 4.1.pdb
+C:\Users\elbo09002\Documents\GitHub\Inlämnings uppgifter loopar\Loop uppgift 4.1\Loop uppgift 4.1\obj\Debug\net10.0\Loop uppgift 4.1.dll
+C:\Users\elbo09002\Documents\GitHub\Inlämnings uppgifter loopar\Loop uppgift 4.1\Loop uppgift 4.1\obj\Debug\net10.0\refint\Loop uppgift 4.1.dll
+C:\Users\elbo09002\Documents\GitHub\Inlämnings uppgifter loopar\Loop uppgift 4.1\Loop uppgift 4.1\obj\Debug\net10.0\Loop uppgift 4.1.pdb
+C:\Users\elbo09002\Documents\GitHub\Inlämnings uppgifter loopar\Loop uppgift 4.1\Loop uppgift 4.1\obj\Debug\net10.0\Loop uppgift 4.1.genruntimeconfig.cache
+C:\Users\elbo09002\Documents\GitHub\Inlämnings uppgifter loopar\Loop uppgift 4.1\Loop uppgift 4.1\obj\Debug\net10.0\ref\Loop uppgift 4.1.dll
+C:\Users\elbo09002\Documents\GitHub\Inlämnings uppgifter loopar\Loop uppgift 4.1\Loop uppgift 4.1\obj\Debug\net10.0\Loop upp.2B880049.Up2Date

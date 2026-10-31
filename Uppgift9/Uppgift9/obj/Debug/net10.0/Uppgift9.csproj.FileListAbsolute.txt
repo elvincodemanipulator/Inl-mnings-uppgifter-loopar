@@ -1,0 +1,15 @@
+C:\Users\elbo09002\Documents\GitHub\Inlämnings uppgifter loopar\Uppgift9\Uppgift9\bin\Debug\net10.0\Uppgift9.exe
+C:\Users\elbo09002\Documents\GitHub\Inlämnings uppgifter loopar\Uppgift9\Uppgift9\bin\Debug\net10.0\Uppgift9.deps.json
+C:\Users\elbo09002\Documents\GitHub\Inlämnings uppgifter loopar\Uppgift9\Uppgift9\bin\Debug\net10.0\Uppgift9.runtimeconfig.json
+C:\Users\elbo09002\Documents\GitHub\Inlämnings uppgifter loopar\Uppgift9\Uppgift9\bin\Debug\net10.0\Uppgift9.dll
+C:\Users\elbo09002\Documents\GitHub\Inlämnings uppgifter loopar\Uppgift9\Uppgift9\bin\Debug\net10.0\Uppgift9.pdb
+C:\Users\elbo09002\Documents\GitHub\Inlämnings uppgifter loopar\Uppgift9\Uppgift9\obj\Debug\net10.0\Uppgift9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elbo09002\Documents\GitHub\Inlämnings uppgifter loopar\Uppgift9\Uppgift9\obj\Debug\net10.0\Uppgift9.AssemblyInfoInputs.cache
+C:\Users\elbo09002\Documents\GitHub\Inlämnings uppgifter loopar\Uppgift9\Uppgift9\obj\Debug\net10.0\Uppgift9.AssemblyInfo.cs
+C:\Users\elbo09002\Documents\GitHub\Inlämnings uppgifter loopar\Uppgift9\Uppgift9\obj\Debug\net10.0\Uppgift9.csproj.CoreCompileInputs.cache
+C:\Users\elbo09002\Documents\GitHub\Inlämnings uppgifter loopar\Uppgift9\Uppgift9\obj\Debug\net10.0\Uppgift9.dll
+C:\Users\elbo09002\Documents\GitHub\Inlämnings uppgifter loopar\Uppgift9\Uppgift9\obj\Debug\net10.0\refint\Uppgift9.dll
+C:\Users\elbo09002\Documents\GitHub\Inlämnings uppgifter loopar\Uppgift9\Uppgift9\obj\Debug\net10.0\Uppgift9.pdb
+C:\Users\elbo09002\Documents\GitHub\Inlämnings uppgifter loopar\Uppgift9\Uppgift9\obj\Debug\net10.0\Uppgift9.genruntimeconfig.cache
+C:\Users\elbo09002\Documents\GitHub\Inlämnings uppgifter loopar\Uppgift9\Uppgift9\obj\Debug\net10.0\ref\Uppgift9.dll
+C:\Users\elbo09002\Documents\GitHub\Inlämnings uppgifter loopar\Uppgift9\Uppgift9\obj\Debug\net10.0\Uppgift9.csproj.Up2Date

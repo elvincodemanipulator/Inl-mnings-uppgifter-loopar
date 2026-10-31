@@ -1,0 +1,15 @@
+C:\Users\elbo09002\Documents\GitHub\Inlämnings uppgifter loopar\Loop uppgift 6\Loop uppgift 6\bin\Debug\net10.0\Loop uppgift 6.exe
+C:\Users\elbo09002\Documents\GitHub\Inlämnings uppgifter loopar\Loop uppgift 6\Loop uppgift 6\bin\Debug\net10.0\Loop uppgift 6.deps.json
+C:\Users\elbo09002\Documents\GitHub\Inlämnings uppgifter loopar\Loop uppgift 6\Loop uppgift 6\bin\Debug\net10.0\Loop uppgift 6.runtimeconfig.json
+C:\Users\elbo09002\Documents\GitHub\Inlämnings uppgifter loopar\Loop uppgift 6\Loop uppgift 6\bin\Debug\net10.0\Loop uppgift 6.dll
+C:\Users\elbo09002\Documents\GitHub\Inlämnings uppgifter loopar\Loop uppgift 6\Loop uppgift 6\bin\Debug\net10.0\Loop uppgift 6.pdb
+C:\Users\elbo09002\Documents\GitHub\Inlämnings uppgifter loopar\Loop uppgift 6\Loop uppgift 6\obj\Debug\net10.0\Loop uppgift 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elbo09002\Documents\GitHub\Inlämnings uppgifter loopar\Loop uppgift 6\Loop uppgift 6\obj\Debug\net10.0\Loop uppgift 6.AssemblyInfoInputs.cache
+C:\Users\elbo09002\Documents\GitHub\Inlämnings uppgifter loopar\Loop uppgift 6\Loop uppgift 6\obj\Debug\net10.0\Loop uppgift 6.AssemblyInfo.cs
+C:\Users\elbo09002\Documents\GitHub\Inlämnings uppgifter loopar\Loop uppgift 6\Loop uppgift 6\obj\Debug\net10.0\Loop uppgift 6.csproj.CoreCompileInputs.cache
+C:\Users\elbo09002\Documents\GitHub\Inlämnings uppgifter loopar\Loop uppgift 6\Loop uppgift 6\obj\Debug\net10.0\Loop uppgift 6.dll
+C:\Users\elbo09002\Documents\GitHub\Inlämnings uppgifter loopar\Loop uppgift 6\Loop uppgift 6\obj\Debug\net10.0\refint\Loop uppgift 6.dll
+C:\Users\elbo09002\Documents\GitHub\Inlämnings uppgifter loopar\Loop uppgift 6\Loop uppgift 6\obj\Debug\net10.0\Loop uppgift 6.pdb
+C:\Users\elbo09002\Documents\GitHub\Inlämnings uppgifter loopar\Loop uppgift 6\Loop uppgift 6\obj\Debug\net10.0\Loop uppgift 6.genruntimeconfig.cache
+C:\Users\elbo09002\Documents\GitHub\Inlämnings uppgifter loopar\Loop uppgift 6\Loop uppgift 6\obj\Debug\net10.0\ref\Loop uppgift 6.dll
+C:\Users\elbo09002\Documents\GitHub\Inlämnings uppgifter loopar\Loop uppgift 6\Loop uppgift 6\obj\Debug\net10.0\Loop upp.36974530.Up2Date
